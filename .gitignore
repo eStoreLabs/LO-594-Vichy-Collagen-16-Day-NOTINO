@@ -1,0 +1,7 @@
+# Ignoruj wszystko
+# *
+
+# Ale NIE ignoruj katalogu z artefaktami
+# !/project/
+
+src/
