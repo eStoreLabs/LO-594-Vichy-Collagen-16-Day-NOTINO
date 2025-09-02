@@ -2,10 +2,10 @@
   "keys": [
     "vichy/liftactiv-collagen-specialist/"
   ],
-  "type": 0,
-  "language": "pl-PL",
-  "campaign": "Vichy Liftactiv Collagen Specialist 16 Day",
   "rpc": "VCH06620",
+  "campaign": "Vichy Liftactiv Collagen Specialist 16 Day",
+  "language": "pl-PL",
+  "type": 0,
   "dateOnSaleFrom": null,
   "owner": "MatusC",
   "contents": [
@@ -64,7 +64,7 @@
                 "name": "asset",
                 "value": "KV.jpg",
                 "element": "img",
-                "alt": "Liftactiv collagen specialist 16 Krem na dzień. Wzmacnia i wiąże kolageny. Redukuje 16 oznak starzenia się skóry.",
+                "alt": "Liftactiv collagen specialist 16 Krem na noc. Wzmacnia i wiąże kolageny. Redukuje 16 oznak starzenia się skóry.",
                 "properties": {}
               }
             ],
@@ -85,7 +85,7 @@
                 "name": "asset",
                 "value": "KV_mobile.jpg",
                 "element": "img",
-                "alt": "Liftactiv collagen specialist 16 Krem na dzień. Wzmacnia i wiąże kolageny. Redukuje 16 oznak starzenia się skóry.",
+                "alt": "Liftactiv collagen specialist 16 Krem na noc. Wzmacnia i wiąże kolageny. Redukuje 16 oznak starzenia się skóry.",
                 "properties": {}
               }
             ],
@@ -105,7 +105,7 @@
             "data": [
               {
                 "name": "header",
-                "value": "<strong>Co-Bonding -</strong> unikalna Technologia wiązania Kolagenów ",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">Co-Bonding -</span> <span style=\"font-weight: 300; text-transform: uppercase;\">unikalna Technologia wiązania Kolagenów</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
@@ -116,8 +116,8 @@
               },
               {
                 "name": "content",
-                "value": "Aby wzmocnić produkcję kolagenu, zastosowano trzy aktywne składniki - Peptydy, Ramnozę i Maitake - które razem tworzą technologię Co-bonding, wiążącą różne typy kolagenów.",
-                "element": "p",
+                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">Aby wzmocnić produkcję kolagenu, zastosowano trzy aktywne składniki - Peptydy, Ramnozę i Maitake - które razem tworzą technologię Co-bonding, wiążącą różne typy kolagenów.</span>",
+                "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
                   "fontFamily": "Roboto",
@@ -234,7 +234,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "WYBIERZ KREM NA DZIEŃ <strong>DOPASOWANY DO TWOICH POTRZEB</strong>",
+                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">\r\n  WYBIERZ KREM NA DZIEŃ\r\n</span>\r\n\r\n<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  DOPASOWANY DO TWOICH POTRZEB\r\n</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
@@ -267,8 +267,8 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "VICHY LIFTACTIV COLLAGEN SPECIALIST 16",
-                "element": "h6",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV COLLAGEN SPECIALIST 16\r\n</span>",
+                "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
                   "fontFamily": "Roboto",
@@ -279,7 +279,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<strong>Problem skóry</strong> <br> Utrata kolagenu w skórze, zmarszczki. <br><br> <strong>Konsystencja</strong> <br> Lekka, aksamitna, nieklejąca się konsystencja, która szybko wchłania się w skórę. Delikatny zapach.",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Utrata kolagenu w skórze, zmarszczki. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, aksamitna, nieklejąca się konsystencja, która szybko wchłania się w skórę. Delikatny zapach.\r\n</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -298,8 +298,8 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "VICHY LIFTACTIV HYALURON SPECIALIST SPF 30",
-                "element": "h6",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV HYALURON SPECIALIST SPF 30\r\n</span>",
+                "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
                   "fontFamily": "Roboto",
@@ -310,7 +310,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<strong>Problem skóry</strong> <br> Drobne linie i zmarszczki, utrata jędrności. <br><br> <strong>Konsystencja</strong> <br> Lekka, świeża, komfortowa. Łatwo się rozprowadza i szybko się wchłania.",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Drobne linie i zmarszczki, utrata jędrności. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, świeża, komfortowa. Łatwo się rozprowadza i szybko się wchłania.\r\n</div>\r\n",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -329,8 +329,8 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "VICHY LIFTACTIV PIGMENT SPECIALIST B3",
-                "element": "h6",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV PIGMENT SPECIALIST B3\r\n</span>",
+                "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
                   "fontFamily": "Roboto",
@@ -341,7 +341,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<strong>Problem skóry</strong> <br> Przebarwienia, niejednolity koloryt skóry, zmarszczki. <br><br> <strong>Konsystencja</strong> <br> Lekka, nielepka, kremowa formuła zmieniająca się w pudrową, aksamitną konsystencję.",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Przebarwienia, niejednolity koloryt skóry, zmarszczki. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, nielepka, kremowa formuła zmieniająca się w pudrową, aksamitną konsystencję.\r\n</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -433,7 +433,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<strong>PIELĘGNACJA ANTI-AGING</strong> CZĘSTO ZADAWANE PYTANIA",
+                "value": "<span style=\"font-weight: 700;\">PIELĘGNACJA ANTI-AGING</span> <br> CZĘSTO ZADAWANE PYTANIA",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
@@ -451,7 +451,7 @@
             "properties": {
               "marginBottom": "0",
               "padding": "0 10px",
-              "textAlign": "center"
+              "textAlign": "left"
             },
             "breakpoints": {
               "xs": true,
@@ -465,7 +465,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "Co to jest kolagen i jak działa?",
+                "value": "",
                 "element": "h2",
                 "properties": {
                   "fontSize": "16px",
@@ -477,47 +477,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "Kolagen jest jednym z najbardziej powszechnych białek w skórze. W ludzkim ciele zidentyfikowano co najmniej 28 typów kolagenu, z czego 16 w skórze. Odpowiada za zdrowy wygląd, świeżość i strukturę skóry.",
-                "element": "p",
-                "properties": {
-                  "fontSize": "16px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "400",
-                  "marginBottom": "0"
-                }
-              }
-            ],
-            "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
-              "padding": "0 10px"
-            },
-            "breakpoints": {
-              "xs": true,
-              "sm": true,
-              "md": true,
-              "lg": true
-            }
-          },
-          {
-            "name": "textComponent",
-            "data": [
-              {
-                "name": "columnOneTitle",
-                "value": "Czy istnieje tylko jeden typ kolagenu?",
-                "element": "h2",
-                "properties": {
-                  "fontSize": "16px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "700",
-                  "marginBottom": "20px"
-                }
-              },
-              {
-                "name": "columnOneText",
-                "value": "Nie, to powszechny mit. W skórze rozpoznano 16 typów kolagenu tworzących jej unikalną matrycę. Ich koncentracja jest największa między 25 a 34 rokiem życia, a później naturalnie spada, dlatego z wiekiem ważne jest wspieranie ich wszystkich jednocześnie. Możesz to osiągnąć stosując krem Vichy Collagen Specialist 16, które wzmacnia skórę z widocznymi oznakami utraty kolagenu wzmacniając jego produkcję*. <br><br> \n          <span style=\"font-size: 14px; padding-top: 8px;\">*Test in vitro.</span>",
+                "value": "<div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Co to jest kolagen i jak działa?</p>\r\n    <p>Kolagen jest jednym z najbardziej powszechnych białek w skórze. W ludzkim ciele zidentyfikowano co najmniej 28 typów kolagenu, z czego 16 w skórze. Odpowiada za zdrowy wygląd, świeżość i strukturę skóry.</p>\r\n  </div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Czy istnieje tylko jeden typ kolagenu?</p>\r\n    <p>Nie, to powszechny mit. W skórze rozpoznano 16 typów kolagenu tworzących jej unikalną matrycę. Ich koncentracja jest największa między 25 a 34 rokiem życia, a później naturalnie spada, dlatego z wiekiem ważne jest wspieranie ich wszystkich jednocześnie. Możesz to osiągnąć stosując krem Vichy Collagen Specialist 16, które wzmacnia skórę z widocznymi oznakami utraty kolagenu wzmacniając jego produkcję*.</p>\r\n    <p style=\"font-size: 13px;\">*Test in vitro.</p>\r\n  </div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Jak często powinnam stosować rutynę pielęgnacyjną Collagen Specialist 16</p>\r\n    <p>Rutyna Collagen Specialist 16 jest odpowiednia do codziennej pielęgnacji skóry już od 25 roku życia, kiedy produkcja naturalnego kolagenu w skórze maleje. Aby osiągnąć najlepsze rezultaty, stosuj serum rano i wieczorem na oczyszczoną i osuszoną twarz. Później, nałóż odpowiedni krem z linii Liftactiv na dzień lub na noc.</p>\r\n  </div>\r\n\r\n</div>\r\n\r\n<div style=\"margin-top: 1.2rem;\">\r\n  <ol style=\"font-size: 13px;\">\r\n    <li>Test in vitro na składniku aktywnym (kolagen I oraz III).</li>\r\n    <li>Wynki testów klinicznych, instrumentalnych oraz konsumenckich.</li>\r\n  </ol>\r\n</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -531,114 +491,6 @@
             "properties": {
               "marginTop": "0",
               "marginBottom": "10px",
-              "padding": "0 10px"
-            },
-            "breakpoints": {
-              "xs": true,
-              "sm": true,
-              "md": true,
-              "lg": true
-            }
-          },
-          {
-            "name": "textComponent",
-            "data": [
-              {
-                "name": "columnOneTitle",
-                "value": "Jak często powinnam stosować rutynę pielęgnacyjną Collagen Specialist 16",
-                "element": "h2",
-                "properties": {
-                  "fontSize": "16px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "700",
-                  "marginBottom": "20px"
-                }
-              },
-              {
-                "name": "columnOneText",
-                "value": "Rutyna Collagen Specialist 16 jest odpowiednia do codziennej pielęgnacji skóry już od 25 roku życia, kiedy produkcja naturalnego kolagenu w skórze maleje. Aby osiągnąć najlepsze rezultaty, stosuj serum rano i wieczorem na oczyszczoną i osuszoną twarz. Później, nałóż odpowiedni krem z linii Liftactiv na dzień lub na noc.",
-                "element": "p",
-                "properties": {
-                  "fontSize": "16px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "400",
-                  "marginBottom": "0"
-                }
-              }
-            ],
-            "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
-              "padding": "0 10px"
-            },
-            "breakpoints": {
-              "xs": true,
-              "sm": true,
-              "md": true,
-              "lg": true
-            }
-          },
-          {
-            "name": "textComponent",
-            "data": [
-              {
-                "name": "columnOneTitle",
-                "value": "1 Test in vitro na składniku aktywnym (kolagen I oraz III).",
-                "element": "p",
-                "properties": {
-                  "fontSize": "13px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "400",
-                  "marginBottom": "0",
-                  "marginTop": "5px"
-                }
-              },
-              {
-                "name": "columnOneText",
-                "value": "",
-                "element": "p",
-                "properties": {}
-              }
-            ],
-            "properties": {
-              "margin": "0px",
-              "padding": "0 10px"
-            },
-            "breakpoints": {
-              "xs": true,
-              "sm": true,
-              "md": true,
-              "lg": true
-            }
-          },
-          {
-            "name": "textComponent",
-            "data": [
-              {
-                "name": "columnOneTitle",
-                "value": "2 Wynki testów klinicznych, instrumentalnych oraz konsumenckich.",
-                "element": "p",
-                "properties": {
-                  "fontSize": "13px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "400",
-                  "marginBottom": "0",
-                  "marginTop": "-20px"
-                }
-              },
-              {
-                "name": "columnOneText",
-                "value": "",
-                "element": "p",
-                "properties": {}
-              }
-            ],
-            "properties": {
-              "margin": "0px",
               "padding": "0 10px"
             },
             "breakpoints": {
